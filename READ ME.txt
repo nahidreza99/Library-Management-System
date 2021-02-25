@@ -1,0 +1,3 @@
+"The library management system helps the administration to keep record of the books in the library and the borrowers.
+The user can issue a book by searching keywords from the title and selecting the appropriate book. The user can search
+books or borrower from the record. The system also counts 30TK per day as penalty after the due return date."
